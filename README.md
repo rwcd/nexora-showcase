@@ -275,6 +275,7 @@ POST /auth/login
 
 ```text
 GET    /api/posts
+GET    /api/posts/page
 GET    /api/posts/{id}
 POST   /api/posts
 PUT    /api/posts/{id}
